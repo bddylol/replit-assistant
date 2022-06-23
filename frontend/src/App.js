@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2>Replit Assistant</h2>
+      <h1>Replit Assistant</h1>
     </div>
   );
 }
